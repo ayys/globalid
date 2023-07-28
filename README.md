@@ -1,0 +1,2 @@
+# globalid
+Typed global IDs
